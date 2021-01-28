@@ -29,5 +29,5 @@ ensemble_mean_anomaly_allvar.sh : this calculates the ensemble mean anomalies fo
 #Jupyther notebook
 
 Each notebook is designed to plot the variable it mentions. Make sure you check and modify the path were you have your data. 
-Dependencies can be easily solved by checking you have all packages installed. Make sure you have xarray.utils from @juiliusbusecke in order to perform the 
+Dependencies can be easily solved by checking you have all packages installed. Make sure you have xarray.utils from @juliusbusecke in order to perform the 
 correlation analysis. 
